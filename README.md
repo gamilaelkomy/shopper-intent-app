@@ -5,7 +5,7 @@ Most online store visitors leave without buying. This project predicts, from a b
 ## 🔗 Live demo
 **[Try the app](https://shopper-inten.streamlit.app/)**
 
-![App screenshot](screenshot.png)
+   ![App screenshot](screenshot.PNG)
 
 ## Results (test set)
 
